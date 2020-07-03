@@ -1,4 +1,4 @@
-import { TicketUpdatedListener } from "../ticket-Updated-listener";
+import { TicketUpdatedListener } from "../ticket-updated-listener";
 import { natsWrapper } from "../../../nats-wrapper";
 import { TicketUpdatedEvent } from "@chtickets/common";
 import mongoose from "mongoose";
